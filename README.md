@@ -1,4 +1,4 @@
-# JavaScript/Python - Odd Even
+# 🎲 JavaScript/Python - Odd Even
 **EN**: Program to return odd and even number from given numbers in JavaScript and Python.
 
 **ID**: Program untuk menampilkan bilangan ganjil dan genap dari bilangan yang diberikan dalam JavaScript dan Python.
